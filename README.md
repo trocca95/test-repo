@@ -1,2 +1,2 @@
 # test-repo
-Learn Githbut
+Learn Github
